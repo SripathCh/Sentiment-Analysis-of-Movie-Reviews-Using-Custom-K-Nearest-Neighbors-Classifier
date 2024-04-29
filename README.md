@@ -12,3 +12,5 @@ The `data` folder includes:
 
 - `test_data.txt`: The test file containing 10,000 reviews without ground truth sentiments.
 - `train_data.txt`: The training file with reviews and corresponding sentiment scores.
+
+**Note**: This code and repository are for showcasing my projects and are not intended for external use.
