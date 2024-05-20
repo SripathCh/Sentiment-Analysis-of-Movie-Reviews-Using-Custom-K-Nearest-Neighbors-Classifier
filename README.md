@@ -1,4 +1,4 @@
-# Sentiment Analysis with K-Nearest Neighbors
+# Sentiment Analysis of Movie Reviews Using Custom K-Nearest Neighbors Classifier
 
 This repository contains the implementation of a sentiment analysis model using the K-Nearest Neighbors (KNN) algorithm, as part of the HW1 assignment for the Department of Computer Science at Mason University.
 
